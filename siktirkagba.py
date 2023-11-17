@@ -1,5 +1,5 @@
 def main():
-    print('SALAMALECO')
+    print('SALAMALECO SALAM GITHUB')
 
 
 if __name__ == '__main__':
